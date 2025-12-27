@@ -1,12 +1,9 @@
-## Hi there 👋
+## Hi there , I am Shweta 😃
 
-<!--
-**SHWETA542005-code/SHWETA542005-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 Student | 💻 Aspiring Software Engineer
+- 🌱 I’m currently learning DSA , Web Development and python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +11,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🚀 Skills
+- HTML, CSS, JavaScript
+- Python 
+- Git & GitHub
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/shweta-3176a9287/
+- Email: shweta.ug23@nsut.ac.in
